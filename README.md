@@ -25,12 +25,11 @@ ___
 ## 🎨 Layout
 Imagens da aplicação são vistas na imagem abaixo:
 
-![Capa](https://github.com/andreviapiana/test/assets/106932234/7c10f3ba-864d-4268-9c28-132d8c8c810c)
-
+![Capa](https://github.com/andreviapiana/IgniteTeams/assets/106932234/c49ac6f2-e1f7-4d17-8fe9-865fc86a0544)
 
 A execução da aplicação em meu celular é vista a seguir:
 
-![execution](https://github.com/andreviapiana/test/assets/106932234/1fe8aa65-4ea8-47c5-b1de-c74a70b421a6)
+![igniteteams execution](https://github.com/andreviapiana/IgniteTeams/assets/106932234/0be97fdd-1ceb-4375-b886-ed949be267a0)
 
 ___
 
